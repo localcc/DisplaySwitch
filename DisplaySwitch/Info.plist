@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SUFeedURL</key>
+	<string>https://displayswitch.localcc.cc/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>gTx7k0+TeWW112ZD2BN/ZsRr1dhb7bssx2aBDYCtOUA=</string>
+</dict>
+</plist>

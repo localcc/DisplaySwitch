@@ -1,0 +1,24 @@
+{
+  "originHash" : "34cf102af4cbcad138f06ef84537545378207fa906304254296fe4710ea5032b",
+  "pins" : [
+    {
+      "identity" : "menubarextraaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/orchetect/MenuBarExtraAccess.git",
+      "state" : {
+        "revision" : "f041bb68e9d464c907e240cf3d74f9086a10ad41",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "sparkle",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sparkle-project/Sparkle",
+      "state" : {
+        "revision" : "0ef1ee0220239b3776f433314515fd849025673f",
+        "version" : "2.6.4"
+      }
+    }
+  ],
+  "version" : 3
+}
